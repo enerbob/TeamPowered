@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TeamPowered
 {
-    class Class1
+    class Person
     {
         public String Name { get; set; }
         public String Address { get; set; }
